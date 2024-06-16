@@ -126,6 +126,7 @@ build.json @home-assistant/supervisor
 /tests/components/apprise/ @caronc
 /homeassistant/components/aprilaire/ @chamberlain2007
 /tests/components/aprilaire/ @chamberlain2007
+/homeassistant/components/aproxima/ @andrelandgraf
 /homeassistant/components/aprs/ @PhilRW
 /tests/components/aprs/ @PhilRW
 /homeassistant/components/apsystems/ @mawoka-myblock @SonnenladenGmbH

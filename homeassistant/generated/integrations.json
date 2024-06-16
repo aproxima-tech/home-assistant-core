@@ -402,6 +402,12 @@
       "config_flow": true,
       "iot_class": "local_push"
     },
+    "aproxima": {
+      "name": "Aproxima",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "local_polling"
+    },
     "aprs": {
       "name": "APRS",
       "integration_type": "hub",
